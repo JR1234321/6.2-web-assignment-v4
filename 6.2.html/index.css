@@ -1,0 +1,42 @@
+nav_col{
+    color: white;
+}
+
+
+.nav-underline .nav-link{
+    color: white;
+
+}
+ 
+.nav-underline .nav-link.active{
+    color:  white;
+
+}
+
+.hom_img{
+    justify-content: right;
+    max-width: 70%;
+}
+
+
+/* Aligning and styling the into div and setting it into a grid */  
+.intro{
+    font-size: 20px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    align-items: center;
+    padding: 10px;
+    }
+    
+  /* Styling the intro image */  
+      #introimg {
+        padding: 10px;
+        max-width: 
+        70%;
+      }
+    
+  /* Aligning the text cenrally */
+      .introtxt{
+        padding: 50px;
+        text-align: center;
+     }
